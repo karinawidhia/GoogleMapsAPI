@@ -30,6 +30,6 @@
 ![ss7](https://github.com/karinawidhia/GoogleMapsAPI/blob/master/Screenshot_2017-11-21-07-25-35%5B1%5D.png)
 
 
-### Nama    : Karina Widhia N.
-### Kelas   : XII RPL 6
-### No      : 18
+#### Nama    : Karina Widhia N.
+#### Kelas   : XII RPL 6
+#### No      : 18
